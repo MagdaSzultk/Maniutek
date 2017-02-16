@@ -1,1 +1,2 @@
-print('Hello Maniek')
+print('Hello Maniek!!')
+print(12)
